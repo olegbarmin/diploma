@@ -1,9 +1,5 @@
 # Contract Students Management Service
 
-### REST API endpoints:
-
-// todo: add endpoints list
-
 ### How to start database server with Docker
 ##### Steps for macOS/Ubuntu
 1. Setup docker([macOS](https://docs.docker.com/docker-for-mac/install) / [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/))
