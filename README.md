@@ -28,20 +28,20 @@
 git clone git@github.com:olegbarmin/diploma.git 
 ``` 
 2. Open IDEA
-3. Select 'Import Project' option
-![project](tutorial/resources/import_project.jpg)
-4. Select `<project_root>/diploma/contractors` folder
-5. Select 'Import project from external model' -> 'Gradle' and press 'Next'
-![import](tutorial/resources/wrapper.jpg)
-6. Select 'Use gradle 'wrapper' task configuration' option and press 'Finish'
+3. Select `Import Project` option
+![project](tutorial/resources/1.jpg)
+4. Select the folder which contains the cloned project
+5. Select `Import project from external model` -> `Gradle` and press `Next`
+![import](tutorial/resources/2.jpg)
+6. Select `Use gradle 'wrapper' task configuration` option and press `Finish`
 ![wrapper](tutorial/resources/wrapper.jpg)
-7. Wait for the 'Sync' task to finish (it may take about 3 minutes)
+7. Wait for the `Sync` task to finish (it may take about 3 minutes)
 ![sync](tutorial/resources/sync.jpg)
 8. Wait for the indexing to finish:
 ![indexing](tutorial/resources/indexing.jpg)
 9. Verify that you project view looks the same:
 ![project_structure](tutorial/resources/project_strucute.jpg)
-10. Run tests, by right clicking on 'java' folder in 'test' package:
+10. Run tests, by right clicking on `java` folder in `test` package:
 ![run_tests](tutorial/resources/run_tests.jpg)
 11. Verify tests done successfully:
 ![tests](tutorial/resources/testing_done.jpg)
