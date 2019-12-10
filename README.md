@@ -18,7 +18,7 @@
 
 ### How to setup development environment
 #### Prerequriments:
-- Git (https://www.atlassian.com/git/tutorials/install-git#windows)
+- Git (https://www.atlassian.com/git/tutorials/install-git)
 - JDK 1.8 or higher (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - IntelliJ IDEA (https://www.jetbrains.com/idea/download/)
 
