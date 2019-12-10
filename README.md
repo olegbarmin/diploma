@@ -49,8 +49,15 @@ git clone git@github.com:olegbarmin/diploma.git
 
 ### Gradle Commands 
 
+#### Client servers
+ 
 `./gradlew client-server:assemble -Pclient=smo` - assembles artifact for the `SMO` service client;
 
 `./gradlew client-server:assemble -Pclient=smo` - assembles artifact for the `OKO` service client;
 
+The assembled artifacts are located in the `client-server/build/libs/` folder 
+
+#### Backend Server
 `./gradlew server:assemble` - assembles artifact for the backend server.
+
+The assembled artifact located under `server/build/libs` directory.
