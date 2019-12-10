@@ -46,3 +46,11 @@ git clone git@github.com:olegbarmin/diploma.git
 11. Verify tests done successfully:
 ![tests](tutorial/resources/testing_done.jpg)
 10. Done.
+
+### Gradle Commands 
+
+`./gradlew client-server:assemble -Pclient=smo` - assembles artifact for the `SMO` service client;
+
+`./gradlew client-server:assemble -Pclient=smo` - assembles artifact for the `OKO` service client;
+
+`./gradlew server:assemble` - assembles artifact for the backend server.
